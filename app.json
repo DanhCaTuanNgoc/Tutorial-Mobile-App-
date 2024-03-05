@@ -1,0 +1,17 @@
+{
+    "expo": {
+        "splash": {
+            "image": "./assets/splash.png",
+            "backgroundColor": "#000000",
+            "resizeMode": "contain",
+            "showDuration": 3000
+        },
+        "scheme": "acme",
+        "web": {
+            "bundler": "metro"
+        },
+        "plugins": ["expo-router"],
+        "name": "Tutorial",
+        "slug": "Tutorial"
+    }
+}
